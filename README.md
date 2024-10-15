@@ -13,6 +13,6 @@ Languages and Tools
 <img alt="Static Badge" src="https://img.shields.io/badge/html-white?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/css-white?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/javascript-white?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/typescript-white?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/react-white?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/webpack-white?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/babel-white?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/eslint-white?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/prettier-white?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/node.js-white?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/figma-white?style=for-the-badge"> <img alt="Static Badge" src="https://img.shields.io/badge/git-white?style=for-the-badge">
 
 My contacts  
-<a href="david-mamardashvili@yandex.ru">david-mamardashvili@yandex.ru</a>
+david-mamardashvili@yandex.ru
 
 <a href="https://t.me/Davchikm"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram"></a>
