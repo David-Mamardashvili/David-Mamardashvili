@@ -7,7 +7,7 @@ About Me
 • I like to create something new or improve the old, bringing it to a full-fledged high-quality product that you can enjoy using.  
 • I strive to improve my skills and expand my experience.  
 • I want to find a team with whom I can create something that benefits people together.  
-• I'm actively looking for a job right now. Here is my resume.
+• I'm actively looking for a job right now.
 
 Languages and Tools  
 
