@@ -33,7 +33,9 @@
   <img width="12"/>
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="next logo"/>
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img src="https://cdn.simpleicons.org/node.js/000000" height="40" alt="node logo"/>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"/>
   <img width="12" />
 </div>
 
