@@ -1,6 +1,6 @@
-<h1 align="center">Hello everyone, my name is David</a> 
+<h1 align="center">Привет, Меня зовут Давид!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a Frontend-developer from Russia 🇷🇺</h3>
+<h2 align="center">I am a Frontend-developer from Russia 🇷🇺</h2>
 
 About Me  
 
