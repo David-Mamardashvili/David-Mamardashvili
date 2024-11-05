@@ -8,7 +8,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   Меня зовут Давид!</a> 
 </h1>
-<h2 align="center">I am a Frontend-developer from Russia 🇷🇺</h2>
+<h2 align="center">Я Frontend-разработчик</h2>
 
 About Me  
 
