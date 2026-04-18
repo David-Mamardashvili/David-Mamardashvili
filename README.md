@@ -9,7 +9,7 @@
   Меня зовут Давид!</a> 
 </h1>
 
-<h2 align="center">•</h2>
+<h2 align="center">•••</h2>
 
 <h3 align="left">👩‍💻 Обо мне:</h3>
 •
