@@ -12,10 +12,8 @@
 <h2 align="center">Я Frontend-разработчик</h2>
 
 <h3 align="left">👩‍💻 Обо мне:</h3>
-
-• Успешно завершил обучение в Яндекс Практикум по направлению «Frontend-разработка».   
-• Обучаюсь в магистратуре по направлению «Веб-разработка» от НИТУ МИСИС и Яндекс Практикум.   
-• Я увлечён своей деятельностью и всегда серьезно подхожу к работе, поэтому неизменно довожу каждое начатое дело до логического завершения. А также, постоянно совершенствую свои навыки, что позволяет мне продвигаться к уровню Middle Frontend-разработчика.     
+ 
+• Обучаюсь в магистратуре по направлению «Веб-разработка» от НИТУ МИСИС и Яндекс Практикум.        
 
 <h3 align="left">🛠 Технологии:</h3>
 
@@ -42,6 +40,6 @@
 
 david-mamardashvili@yandex.ru
 
-<a href="https://t.me/Davchikm" target="_blank">
+<a href="https://t.me/davchikm" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
 </a>
